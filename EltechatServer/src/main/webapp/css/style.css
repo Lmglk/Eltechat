@@ -1,0 +1,82 @@
+body {
+  background-color: #151E29;
+  color: #FFF; }
+
+.title {
+  font-size: 42px;
+  margin: 50px; }
+
+#login {
+  margin-top: 100px; }
+
+.btn-login {
+  background-color: #37A7EE;
+  margin: 10px 0px; }
+
+.btn-send {
+  background-color: #37A7EE; }
+
+#error {
+  color: #e74c3c;
+  height: 20px; }
+
+.message-line {
+  margin-top: 15px;
+  margin-bottom: 5px;
+  background-color: #37A7EE;
+  height: 1px;
+  border: none; }
+
+#message {
+  padding: 0px;
+  margin-bottom: 20px;
+  height: 400px;
+  overflow: scroll;
+  overflow-x: hidden;
+  -ms-overflow-style: none; }
+
+#message::-webkit-scrollbar {
+  width: 0; }
+
+#message li {
+  margin: 10px 0px;
+  list-style: none;
+  font-size: 16px; }
+
+.info {
+  margin: 6px 0;
+  font-size: 16px; }
+
+.icon {
+  margin: 0 10px; }
+
+.input-message {
+  background-color: #151E29;
+  color: #FFF;
+  border: none; }
+
+.input-message:focus {
+  box-shadow: none;
+  -webkit-box-shadow: none; }
+
+.input-line {
+  margin: 0px;
+  background-color: #37A7EE;
+  height: 1px;
+  border: none; }
+
+.user-info {
+  text-align: center; }
+
+@media (max-width: 768px) {
+  .title {
+    font-size: 32px;
+    margin: 25px; }
+  .online-info {
+    text-align: center; }
+  .message-line {
+    margin-top: 5px; }
+  #message {
+    height: 375px; }
+  .user-info {
+    text-align: right; } }

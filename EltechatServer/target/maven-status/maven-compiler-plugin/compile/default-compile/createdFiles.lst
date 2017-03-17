@@ -1,0 +1,6 @@
+ru\chat\entity\Admin.class
+ru\chat\entity\Moderator.class
+ru\chat\entity\interfaces\UserInterface.class
+ru\chat\entity\User.class
+ru\chat\server\SocketServer.class
+ru\chat\utils\JSONUtils.class

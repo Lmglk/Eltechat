@@ -1,0 +1,21 @@
+
+Dsquid:S1659"*Declare "FLAG_MESSAGE" on a separate line.(®¯âÍúÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+_squid:S1192"JDefine a constant instead of duplicating this literal "sessionId" 6 times.(°âŠô
+?squid:S1166"%Either log or rethrow this exception.(÷¿­¹ÿÿÿÿÿ
+bsquid:S1192"HDefine a constant instead of duplicating this literal "message" 5 times.(®¯âÍúÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Fsquid:S1166"%Either log or rethrow this exception.(÷¿­¹ÿÿÿÿÿ8Æ•ÕÜ¥+
+@squid:S1659"&Declare "FLAG_NEW" on a separate line.(ìƒÖ úÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+–squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(òŠõ«
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Æ•ÕÜ¥+
+Asquid:S1659"'Declare "FLAG_EXIT" on a separate line.(ßïÊúÿÿÿÿ
+?squid:S1166"%Either log or rethrow this exception.(÷¿­¹ÿÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1166"%Either log or rethrow this exception.(÷¿­¹ÿÿÿÿÿ
+Asquid:S1659"'Declare "FLAG_KICK" on a separate line.(Ş—‚Ìüÿÿÿÿ
+?squid:S1166"%Either log or rethrow this exception.(÷¿­¹ÿÿÿÿÿ
+?squid:S1166"%Either log or rethrow this exception.(÷¿­¹ÿÿÿÿÿ
+Csquid:S1659"'Declare "FLAG_MUTE" on a separate line.(á©ğ¶8„ÎÖÜ¥+
